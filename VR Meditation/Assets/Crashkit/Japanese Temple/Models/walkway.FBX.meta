@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 2a94afcb2c1fc3c49b50f09a5fc47e7c
+timeCreated: 1478649313
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box03
+    100006: Box04
+    100008: Box05
+    100010: Box06
+    100012: Box07
+    100014: Box08
+    100016: column20
+    100018: column21
+    100020: column22
+    100022: column23
+    100024: column24
+    100026: column25
+    100028: column26
+    100030: column27
+    100032: column36
+    100034: column37
+    100036: floor boards
+    100038: slat19
+    100040: slat20
+    100042: slat21
+    100044: slat22
+    100046: slat23
+    100048: slat24
+    100050: slat25
+    100052: slat26
+    100054: //RootNode
+    100056: walkway roof
+    100058: walkway-roof
+    400000: Box01
+    400002: Box02
+    400004: Box03
+    400006: Box04
+    400008: Box05
+    400010: Box06
+    400012: Box07
+    400014: Box08
+    400016: column20
+    400018: column21
+    400020: column22
+    400022: column23
+    400024: column24
+    400026: column25
+    400028: column26
+    400030: column27
+    400032: column36
+    400034: column37
+    400036: floor boards
+    400038: slat19
+    400040: slat20
+    400042: slat21
+    400044: slat22
+    400046: slat23
+    400048: slat24
+    400050: slat25
+    400052: slat26
+    400054: //RootNode
+    400056: walkway roof
+    400058: walkway-roof
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box05
+    2300010: Box06
+    2300012: Box07
+    2300014: Box08
+    2300016: column20
+    2300018: column21
+    2300020: column22
+    2300022: column23
+    2300024: column24
+    2300026: column25
+    2300028: column26
+    2300030: column27
+    2300032: column36
+    2300034: column37
+    2300036: floor boards
+    2300038: slat19
+    2300040: slat20
+    2300042: slat21
+    2300044: slat22
+    2300046: slat23
+    2300048: slat24
+    2300050: slat25
+    2300052: slat26
+    2300054: walkway roof
+    2300056: walkway-roof
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box05
+    3300010: Box06
+    3300012: Box07
+    3300014: Box08
+    3300016: column20
+    3300018: column21
+    3300020: column22
+    3300022: column23
+    3300024: column24
+    3300026: column25
+    3300028: column26
+    3300030: column27
+    3300032: column36
+    3300034: column37
+    3300036: floor boards
+    3300038: slat19
+    3300040: slat20
+    3300042: slat21
+    3300044: slat22
+    3300046: slat23
+    3300048: slat24
+    3300050: slat25
+    3300052: slat26
+    3300054: walkway roof
+    3300056: walkway-roof
+    4300000: Box01
+    4300002: Box02
+    4300004: Box03
+    4300006: Box04
+    4300008: Box05
+    4300010: Box06
+    4300012: Box07
+    4300014: Box08
+    4300016: column20
+    4300018: slat19
+    4300020: column21
+    4300022: slat20
+    4300024: column22
+    4300026: slat21
+    4300028: column23
+    4300030: slat22
+    4300032: column24
+    4300034: slat23
+    4300036: column25
+    4300038: slat24
+    4300040: column26
+    4300042: slat25
+    4300044: column27
+    4300046: slat26
+    4300048: column36
+    4300050: walkway roof
+    4300052: walkway-roof
+    4300054: column37
+    4300056: floor boards
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

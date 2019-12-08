@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 14c96e0f15e80914c8906667ac9889b1
+timeCreated: 1478627839
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bamboo floor unit01
+    100002: colum
+    100004: column
+    100006: column 1
+    100008: column 2
+    100010: column 3
+    100012: column 4
+    100014: floor base01
+    100016: floor unit 02
+    100018: //RootNode
+    100020: Lanter Support 02
+    100022: lantern
+    100024: lantern 1
+    100026: lantern support 01
+    100028: temple int06
+    100030: temple int07
+    100032: temple int09
+    100034: temple int10
+    100036: temple int11
+    100038: temple int12
+    100040: temple int14
+    400000: bamboo floor unit01
+    400002: colum
+    400004: column
+    400006: column 1
+    400008: column 2
+    400010: column 3
+    400012: column 4
+    400014: floor base01
+    400016: floor unit 02
+    400018: //RootNode
+    400020: Lanter Support 02
+    400022: lantern
+    400024: lantern 1
+    400026: lantern support 01
+    400028: temple int06
+    400030: temple int07
+    400032: temple int09
+    400034: temple int10
+    400036: temple int11
+    400038: temple int12
+    400040: temple int14
+    2300000: bamboo floor unit01
+    2300002: colum
+    2300004: column
+    2300006: column 1
+    2300008: column 2
+    2300010: column 3
+    2300012: column 4
+    2300014: floor base01
+    2300016: floor unit 02
+    2300018: Lanter Support 02
+    2300020: lantern
+    2300022: lantern 1
+    2300024: lantern support 01
+    2300026: temple int06
+    2300028: temple int07
+    2300030: temple int09
+    2300032: temple int10
+    2300034: temple int11
+    2300036: temple int12
+    2300038: temple int14
+    3300000: bamboo floor unit01
+    3300002: colum
+    3300004: column
+    3300006: column 1
+    3300008: column 2
+    3300010: column 3
+    3300012: column 4
+    3300014: floor base01
+    3300016: floor unit 02
+    3300018: Lanter Support 02
+    3300020: lantern
+    3300022: lantern 1
+    3300024: lantern support 01
+    3300026: temple int06
+    3300028: temple int07
+    3300030: temple int09
+    3300032: temple int10
+    3300034: temple int11
+    3300036: temple int12
+    3300038: temple int14
+    4300000: temple int06
+    4300002: temple int07
+    4300004: column
+    4300006: temple int09
+    4300008: column
+    4300010: column
+    4300012: column
+    4300014: column
+    4300016: colum
+    4300018: temple int10
+    4300020: temple int11
+    4300022: lantern
+    4300024: bamboo floor unit01
+    4300026: floor unit 02
+    4300028: lantern
+    4300030: floor base01
+    4300032: temple int12
+    4300034: temple int14
+    4300036: lantern support 01
+    4300038: Lanter Support 02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

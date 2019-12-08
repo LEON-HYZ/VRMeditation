@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 90c3f7b8d4943fb45a3b2351fb84f137
+timeCreated: 1478631545
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bamboo floor unit02
+    100002: Box01
+    100004: Box02
+    100006: Camera01.Target
+    100008: column
+    100010: column04
+    100012: column05
+    100014: column06
+    100016: column07
+    100018: column08
+    100020: //RootNode
+    100022: floor tatami
+    100024: lantern01
+    100026: lantern02
+    100028: Object14
+    100030: short base 2
+    100032: slat07
+    100034: slat08
+    100036: slat09
+    100038: slat10
+    100040: slat11
+    100042: slat12
+    400000: bamboo floor unit02
+    400002: Box01
+    400004: Box02
+    400006: Camera01.Target
+    400008: column
+    400010: column04
+    400012: column05
+    400014: column06
+    400016: column07
+    400018: column08
+    400020: //RootNode
+    400022: floor tatami
+    400024: lantern01
+    400026: lantern02
+    400028: Object14
+    400030: short base 2
+    400032: slat07
+    400034: slat08
+    400036: slat09
+    400038: slat10
+    400040: slat11
+    400042: slat12
+    2300000: bamboo floor unit02
+    2300002: Box01
+    2300004: Box02
+    2300006: column
+    2300008: column04
+    2300010: column05
+    2300012: column06
+    2300014: column07
+    2300016: column08
+    2300018: floor tatami
+    2300020: lantern01
+    2300022: lantern02
+    2300024: short base 2
+    2300026: slat07
+    2300028: slat08
+    2300030: slat09
+    2300032: slat10
+    2300034: slat11
+    2300036: slat12
+    3300000: bamboo floor unit02
+    3300002: Box01
+    3300004: Box02
+    3300006: column
+    3300008: column04
+    3300010: column05
+    3300012: column06
+    3300014: column07
+    3300016: column08
+    3300018: floor tatami
+    3300020: lantern01
+    3300022: lantern02
+    3300024: short base 2
+    3300026: slat07
+    3300028: slat08
+    3300030: slat09
+    3300032: slat10
+    3300034: slat11
+    3300036: slat12
+    4300000: lantern02
+    4300002: slat07
+    4300004: column
+    4300006: column04
+    4300008: column05
+    4300010: column06
+    4300012: column07
+    4300014: column08
+    4300016: slat08
+    4300018: slat09
+    4300020: slat10
+    4300022: slat11
+    4300024: slat12
+    4300026: bamboo floor unit02
+    4300028: lantern01
+    4300030: short base 2
+    4300032: floor tatami
+    4300034: Box01
+    4300036: Box02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
