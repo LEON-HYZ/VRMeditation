@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 192}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 156
+  controlID: 159
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 713}
   m_MaxSize: {x: 10004, y: 18063}
   vertical: 1
-  controlID: 11
+  controlID: 66
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 713}
   m_MaxSize: {x: 14006, y: 18063}
   vertical: 0
-  controlID: 190
+  controlID: 10
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 713}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
-  controlID: 189
+  controlID: 9
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -427,20 +427,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Audio
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Audio
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\haoyuz7\Documents\GitHub\VRMeditation\VR Meditation
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e100000
-    m_LastClickedID: 4158
-    m_ExpandedIDs: 00000000f40c0000ce1000004c1a0000c61e000000ca9a3b
+    m_SelectedIDs: f60c0000
+    m_LastClickedID: 3318
+    m_ExpandedIDs: 00000000f60c0000d2100000501a0000ca1e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,7 +468,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f40c0000ce1000004c1a0000c61e0000
+    m_ExpandedIDs: 00000000f60c0000d2100000501a0000ca1e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,24 +583,24 @@ MonoBehaviour:
     height: 304
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 81}
-    m_SelectedIDs: fa070100
-    m_LastClickedID: 67578
-    m_ExpandedIDs: 8e93f6ff9e94f6ff1097f6ffb874faff2662fbff9654fdff08cbfeff60ceffffb4ddfffff0efffff00f0ffff18f0fffffef7ffff76f8ffffb6f8ffffaefbffffb6fbffffc2fbffffc4fbffffc6fbffffd4fbffffe2fbffffe4fbffff00000000ec200000fcfe0000400101009002010056040100ba0501000e070100
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 14210000
+    m_LastClickedID: 8468
+    m_ExpandedIDs: 04f0ffff18f0ffffe4fbffff0000000014210000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: OVRPlayerController
-      m_OriginalName: OVRPlayerController
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 65856
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -641,9 +641,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 42.548897, y: -21.077026, z: 89.17505}
+    m_Target: {x: 28.570915, y: 5.6958866, z: 86.621376}
     speed: 2
-    m_Value: {x: 42.548897, y: -21.077026, z: 89.17505}
+    m_Value: {x: 28.570915, y: 5.6958866, z: 86.621376}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -671,13 +671,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.023661023, y: 0.96833575, z: -0.22713634, w: 0.10087223}
+    m_Target: {x: 0.11834332, y: 0.87820584, z: -0.36654514, w: 0.28353867}
     speed: 2
-    m_Value: {x: 0.023661023, y: 0.96833575, z: -0.22713634, w: 0.10087223}
+    m_Value: {x: 0.11834332, y: 0.87820584, z: -0.36654514, w: 0.28353867}
   m_Size:
-    m_Target: 66.02588
+    m_Target: 27.040985
     speed: 2
-    m_Value: 66.02588
+    m_Value: 27.040985
   m_Ortho:
     m_Target: 0
     speed: 2

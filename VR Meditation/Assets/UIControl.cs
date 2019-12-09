@@ -18,6 +18,7 @@ public class UIControl : MonoBehaviour
 
     // Use this for initialization
     public static bool GameIsPaused = false;
+    private bool MedGuideisOn = false;
     void Start()
     {
         WelcomeUI.SetActive(true);
@@ -55,9 +56,9 @@ public class UIControl : MonoBehaviour
             MedGuide();
         }
 
-        if(!GameIsPaused && OVRInput.GetDown(OVRInput.RawButton.X))
+        if(MedGuideisOn && OVRInput.GetDown(OVRInput.RawButton.X))
         {
-            GameIsPaused = true;
+            MedGuideisOn = false;
             MedGuideUI.SetActive(false);
             pauseMenuUI.SetActive(true);
             
@@ -98,7 +99,7 @@ public class UIControl : MonoBehaviour
     {
         pauseMenuUI.SetActive(false);
         MedGuideUI.SetActive(true);
-        GameIsPaused = false;
+        MedGuideisOn = true;
         
     }
 
