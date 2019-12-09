@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Crashkit/Japanese Temple/Scenes/Japanese Temple Scene Camera.unity
+- path: Assets/JapanMeditation.unity
   isLoaded: 1
   isActive: 1
