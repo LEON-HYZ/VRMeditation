@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/haoyuz7/Desktop/VR Meditation.exe
+C:/Users/haoyuz7/Documents/GitHub/VRMeditation/VR Meditation Build/VR Meditation.exe
 SceneListBegin?
 Assets/JapanMeditation.unity
 SceneListEnd?
